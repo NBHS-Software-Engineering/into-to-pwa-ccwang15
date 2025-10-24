@@ -88,7 +88,7 @@ Make sure you open a new terminal with the keys <kbd>Ctrl</kbd> + <kbd>`</kbd> a
    - Choose your working directory
 
 ```bash
-git clone https://github.com/NBHS-Software-Engineering/Flask_PWA_Programming_For_The_Web_Task_Template.git
+git clone https://github.com/NBHS-Software-Engineering-HSC 2026/Unit_1_Flask_PWA_Programming_For_The_Web.git
 cd Unit_1_Flask_PWA_Programming_For_The_Web
 ```
 
